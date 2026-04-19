@@ -33,6 +33,6 @@
 
 ## 📫 Connect With Me
 - [GitHub](https://github.com/iamcodinghere22) 
-- [LinkedIn](linkedin.com/in/amogh-patwari-766598384)
+- [LinkedIn](https://www.linkedin.com/in/amogh-patwari-766598384)  
 
 
